@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Donchack
-- 👀 I’m interested in Python development
-- 🌱 I’m currently learning Python, HTML, CSS, Flask
+- 👀 I'm developing a backend in Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
